@@ -38,7 +38,6 @@ int RPS() {
     char playAgain = 'Y';
 
     while (playAgain == 'Y') {
-        s
         userChoice = getUserChoice_RPS();
         computerChoice = getComputerChoice_RPS();
 
@@ -60,7 +59,3 @@ int RPS() {
     return 0;
 }
 
-int main(){
-    RPS();
-    return 0;
-}
