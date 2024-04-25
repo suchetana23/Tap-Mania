@@ -47,8 +47,7 @@ int cog() {
 }
 
 int main() {
-  cout << "\t\tTap-Mania\nBy Suchi and Co[Obviously Replace this with your "
-          "team name or team details]\n";
+  cout << "\t\tTap-Mania\nBy Anjana, Nicole, Prachi, Shalvi, Sohini and Suchetana\n";
   while (true) {
     if (cog() == 0)
       break;
