@@ -91,10 +91,7 @@ int Quiz_Game(){
    J.ASK();
 
    cout<<"total score="<<sum_quiz<<" out of 100"<<endl;
+   return 0; 
+}
 
-}
-int main(){
-   Quiz_Game();
-   return 0;
-}
 
