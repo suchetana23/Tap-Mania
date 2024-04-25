@@ -236,7 +236,7 @@ public:
     }
 };
 
-int main() {
+int initiateSnakeGame() {
     // Random number generation
     srand((unsigned)time(NULL));
 
