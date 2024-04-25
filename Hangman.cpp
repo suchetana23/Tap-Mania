@@ -61,7 +61,7 @@ string hangman_art[7] = {
     "=========="
 };
 
-int main()
+int initiateHangman()
 {
     int a=0,b=0;
     srand(time(0));

@@ -109,7 +109,7 @@ void newboard(int board[9]) {
 	}
 }
 
-int main(){
+int initiateTicTacToe(){
     cout<<"-------Welcome to a game of tic-tac-toe--------------"<<endl<<"Player vs bot"<<endl;
     cout<<"The following are the positions of the cells"<<endl<<"Press a number between(1-9):"<<endl;
 

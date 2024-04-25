@@ -2,7 +2,7 @@
 #include <ctime>
 #include <iostream>
 using namespace std;
-int main()
+int initiateGuessTheNumber()
 {
     cout << "\n\t\t\tWelcome to GuessTheNumber game!"
          << endl;
